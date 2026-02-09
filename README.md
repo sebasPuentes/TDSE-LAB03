@@ -166,7 +166,7 @@ scikit-learn
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sebasPuentes/TDSE-LAB03
 cd TDSE-LAB03
 ```
 
