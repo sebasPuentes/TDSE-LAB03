@@ -146,6 +146,17 @@ Dense (10 neurons, Softmax)
    - **Second conv layer**: Combines basic features into complex patterns
    - **Dense layers**: High-level decision making based on extracted features
 
+## SAGEMAKER DEPLOY
+
+Just like in the previous lab, we start the Sagemaker instance and run the project. 
+
+![alt text](docs/sageMaker.png)
+
+When it tries to create the endpoint, it gives an error due to account permissions.
+
+![alt text](docs/endpointError.png)
+
+
 ## Getting Started
 
 These instructions will help you run the experiments on your local machine.
