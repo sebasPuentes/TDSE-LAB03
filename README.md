@@ -38,6 +38,8 @@ The **Fashion MNIST** dataset is used for all experiments in this laboratory. It
 - **Pixel values**: 0-255 (normalized to 0-1 for training)
 - **Format**: Each image is a 28×28 matrix representing grayscale intensities
 
+![alt text](docs/Dataset.png)
+
 ## Architecture Diagrams
 
 ### Base Model (Non-Convolutional)
